@@ -2,12 +2,10 @@
 
 ## Hi there 👋, I'm Abhranshu  
 
-Building AI-native data systems end-to-end.
-
-- Current Founder & CEO - Autonmis, Prev - Head of Data with Paytm, Junglee Games, Lido, UHG 
-- Built large scale platforms at Paytm & Junglee Games 
-- Currently building Autonmis (AI-native data platform)
-- Focus: pipelines, distributed compute systems, governance, AI execution layers
+- Currently: Founder @ [Autonmis](https://autonmis.com) AI-native governed data platform for Ops & Business.  
+- Previously: AVP Data & ML @ Paytm · Head of Data @ Junglee Games, Lido, Simplilearn
+- Built petabyte scale data processing platforms at Paytm & Junglee Games 
+- Focus: Data platforms, Agents, distributed compute systems, governance, AI execution layers
 
 ### Selected Work
 - System design: https://www.linkedin.com/in/abhranshu-bagchi/recent-activity/articles/
@@ -17,6 +15,23 @@ Building AI-native data systems end-to-end.
 ### Current Focus
 Designing AI-native governed execution systems on enterprise data
 
+## What I've shipped
+
+**Autonmis** (2025–present)  
+Full-stack AI-native data platform built largely solo. Multi-tenant org architecture with RLS and 7-year audit logging. Governed metric 
+lifecycle (defined → draft → published) enforced across dashboards, alerts, and executive briefs. LangGraph session graphs + BullMQ  worker pools + OpenRouter model routing with fallback chain. On-premises EKS/EC2 deployment with VPC isolation for regulated 
+customers. Live on customer data in diverse verticals.
+
+**Paytm — Data & ML** (2022–2024)  
+Ledger reconciliation and financial reporting across ₹250Cr+/month in flows. Payout engine for 100K field agents — rules engine, scoring 
+system, device servicing workflows. Governance and observability layer across 1,000+ production pipelines.
+
+**Junglee Games — Platform** (2020–2022)  
+Real-time gameplay ecosystem at 1B+ daily events. Sub-second leaderboard updates for 10M concurrent players. Financial-grade 
+transaction processing for 50M+ monthly transactions. Data org built 0 → 22 engineers.
+
+---
+
 ## What I’m building
 
 Most of my work is in private repositories.
@@ -25,3 +40,21 @@ This repository captures:
 - system design decisions
 - architecture patterns
 - lessons from building production data systems
+
+---
+
+## Consulting and fractional availability
+
+I take on a small number of engagements where the problem is hard and the context fits.
+
+**Architecture sprint** — 2–4+ week embedded engagement. 
+Current-state audit, architecture decision document, implementation roadmap. For teams at the inflection point between scrappy and engineered.
+
+**Platform deployment** — Full Autonmis deployment on your infrastructure, configured for your data and governance requirements. For lean teams that need the system working, not just designed.
+
+**Fractional data leadership** — Ongoing technical anchor for data decisions: architecture reviews, hiring, roadmap. 
+For companies between "no data leader" and "ready to hire full-time."
+
+Book a call: https://cal.com/abhranshu-b/exploratory
+
+
