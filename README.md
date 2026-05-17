@@ -21,11 +21,11 @@ Designing AI-native governed execution systems on enterprise data
 Full-stack AI-native data platform built largely solo. Microservice led multi-tenant org architecture with RLS and 7-year audit logging. Governed access & metric lifecycle (defined → draft → published) enforced across dashboards, alerts, and executive briefs. LangGraph session graphs + BullMQ  worker pools + OpenRouter model routing with fallback chain. On-premises EKS/EC2 deployment with VPC isolation for regulated 
 customers. Early deployment on customer data in diverse verticals.
 
-**@Paytm — Data & ML Platform: ** 
+**@Paytm — Data & ML Platform:** 
 Ledger reconciliation and financial reporting across ₹250Cr+/month in flows. MLOps for AML in Payments. Payout engine for 100K field agents — rules engine, scoring 
 system, device servicing workflows. Governance and observability layer across 1,000+ production pipelines.
 
-**@Junglee Games — Data Eng & ML Systems: ** 
+**@Junglee Games — Data Eng & ML Systems:** 
 Real-time gameplay ecosystem at 1B+ daily events. Sub-second leaderboard updates for 10M concurrent players. Financial-grade 
 transaction processing for 50M+ monthly transactions. Data org built 0 → 22 engineers.
 
