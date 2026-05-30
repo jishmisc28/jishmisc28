@@ -2,7 +2,7 @@
 
 ## Hi there 👋, I'm Abhranshu  
 
-- Currently: Founder @ [Autonmis](https://autonmis.com) AI-native governed data platform for Ops & Business.  
+- Currently: Building @ [Autonmis](https://autonmis.com) AI-native governed data platform for Ops & Business.  
 - Previously: AVP Data & ML @ Paytm · Head of Data @ Junglee Games, Lido, Simplilearn
 - Built multi petabyte scale data processing platforms at Paytm & Junglee Games 
 - Focus: Data platforms, Agents, distributed compute systems, governance, AI execution layers
