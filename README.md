@@ -2,15 +2,15 @@
 
 ## Hi there 👋, I'm Abhranshu  
 
-- Currently: Building @ [Autonmis](https://autonmis.com) AI-native governed data platform for Ops & Business.  
+- Currently: Building @ [Autonmis](https://autonmis.com) AI-native governed data platform for Ops & Business; Tieot - The AI-Native Finance Subsystem Beside Your ERP (https://tieot.autonmis.com/)      
 - Previously: AVP Data & ML @ Paytm · Head of Data @ Junglee Games, Lido, Simplilearn
 - Built multi petabyte scale data processing platforms at Paytm & Junglee Games 
 - Focus: Data platforms, Agents, distributed compute systems, governance, AI execution layers
 
 ### Selected Work
 - Open source: [hearth](https://github.com/jishmisc28/hearth) — prompt-cache stability for agent loops. `pip install hearth-ai`
-- Open source: [synthetic-enterprise-lab](https://github.com/jishmisc28/synthetic-enterprise-lab) — a runnable lender whose books disagree
-- Open source: [first-impressions-ai](https://github.com/jishmisc28/first-impressions-ai) — a signed-in product walk that checks the numbers, with evidence
+- Open source: [synthetic-enterprise-lab](https://github.com/jishmisc28/synthetic-enterprise-lab) — runnable multi-system estate (loan book, collections, general ledger, ERP, events, object store) with planted disagreements and fault injection
+- Open source: [first-impressions-ai](https://github.com/jishmisc28/first-impressions-ai) — signed-in walk of a B2B or data-heavy product. Checks cross-screen sums, a KPI that does not match its API, and dead controls, then writes an evidence report.
 - System design: https://www.linkedin.com/in/abhranshu-bagchi/recent-activity/articles/
 - Case studies: https://autonmis.com/blogs
 - Articles: https://medium.com/@abhranshubagchi
